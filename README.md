@@ -11,5 +11,5 @@ Investigating how non-coding regulatory variations alter cellular processing con
 - **Sequence & Guide RNA Analysis:** CHOPCHOP, SnapGene, MEGA, BioEdit.
 
 ## Active Project Repositories
-- [cyp19a1-variant-docking](https://github.com) - Structural characterization & molecular docking parameter maps for CYP19A1 variants.
-- [fipA-prevalence-screening](https://github.com) - Cohort screening maps and structural validation for the fipA virulence gene.
+- [cyp19a1-variant-docking](https://github.com/AsfiyaFathima99/cyp19a1-variant-docking) - Structural characterization & molecular docking parameter maps for CYP19A1 variants.
+- [fipA-prevalence-screening](https://github.com/AsfiyaFathima99/fipA-prevalence-screening) - Cohort screening maps and structural validation for the fipA virulence gene.
