@@ -1,15 +1,16 @@
 # Asfiya Fathima | MSc in Biotechnology
-🧬 **Precision Genomics & RNA Processing Machinery**  
+🧬 **Precision Genomics • Molecular Epigenetics & Alternative Splicing • CRISPR Engineering**  
 📧 asfiyafathimaar9@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/asfiya-fathima-b49449275)
 
 ## Research Focus
-Investigating how non-coding regulatory variations alter cellular processing controls, chromatin dynamics, and message stability to drive disease pathways. My focus integrates computational screening with wet-lab validation to dissect how mutations hidden outside coding regions disrupt alternative splicing choices, alter epigenetic switches, and impact genome maintenance across patient-derived oncology cohorts.
+I am an aspiring PhD researcher interested in how epigenetic regulation, chromatin dynamics, and non-coding regulatory variation govern gene expression and pre-mRNA alternative splicing in human disease. My goal is to integrate precision genomics, variant pathogenicity prioritization, and CRISPR-based genome/epigenome engineering with wet-lab molecular biology to dissect regulatory mechanisms and therapeutic targets.
 
 ## Computational Competencies & Tools
-- **Variant Prioritization & Annotation:** CADD, SIFT, PolyPhen, PROVEAN.
-- **Biophysics & Molecular Modeling:** AutoDock Vina, PyMOL, Discovery Studio.
-- **Sequence & Guide RNA Analysis:** CHOPCHOP, SnapGene, MEGA, BioEdit.
+- **Variant & SNP Analysis:** CADD, SIFT, PolyPhen, PROVEAN.
+- **Sequence & CRISPR gRNA Design:** CHOPCHOP, SnapGene, MEGA, BioEdit.
+- **Protein Modeling & Docking:** AutoDock Vina, PyMOL, Discovery Studio.
 
 ## Active Project Repositories
-- [cyp19a1-variant-docking](https://github.com/AsfiyaFathima99/cyp19a1-variant-docking) - Structural characterization & molecular docking parameter maps for CYP19A1 variants.
+
+- [cyp19a1-variant-docking](https://github.com/AsfiyaFathima99/cyp19a1-variant-docking) - Structural characterization & molecular docking parameter maps for CYP19A1 variants in breast cancer.
 - [fipA-prevalence-screening](https://github.com/AsfiyaFathima99/fipA-prevalence-screening) - Cohort screening maps and structural validation for the fipA virulence gene.
