@@ -14,3 +14,4 @@ I am an aspiring PhD researcher interested in how epigenetic regulation, chromat
 
 - [cyp19a1-variant-docking](https://github.com/AsfiyaFathima99/cyp19a1-variant-docking) - Structural characterization & molecular docking parameter maps for CYP19A1 variants in breast cancer.
 - [fipA-prevalence-screening](https://github.com/AsfiyaFathima99/fipA-prevalence-screening) - Cohort screening maps and structural validation for the fipA virulence gene.
+- [dcdc2-robo1-crispr-variants](https://github.com/AsfiyaFathima99/dcdc2-robo1-crispr-variants) - In silico variant prioritization, structural modeling, and CRISPR-Cas9 gRNA design workflow for dyslexia-linked variants in DCDC2 and ROBO1.
